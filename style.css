@@ -1,10 +1,10 @@
 body{
     font-size: large;
-    color: aqua;
-    background-color: aliceblue;
+    color: greenyellow;
+    background-color: black;
 }
 
 button{
-    background-color: salmon;
+    background-color: grey;
     color: antiquewhite;
 }
